@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi! 
+### I am an associate professor at the Department of Programming Languages an Compilers of the Informatics Faculty of Eötvös Loránd University.
 
 <!--
 **mate-tejfel/mate-tejfel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
